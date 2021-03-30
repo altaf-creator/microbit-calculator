@@ -1,24 +1,24 @@
 
 > Open this page at [https://altaf-creator.github.io/microbit-calculator/](https://altaf-creator.github.io/microbit-calculator/)
 
-## Use as Extension
+## ❓ How to use
 
-This repository can be added as an **extension** in MakeCode.
+Press A+B to start & switch between numbers/operation  
+Press B to incrase value  
+Press A to decrase value  
 
-* open [https://makecode.microbit.org/](https://makecode.microbit.org/)
-* click on **New Project**
-* click on **Extensions** under the gearwheel menu
-* search for **https://github.com/altaf-creator/microbit-calculator** and import
+**Note:**  
+This code only can calculate **1 operation**. I will update it so it can caluclate more than one.
 
-## Edit this project ![Build status badge](https://github.com/altaf-creator/microbit-calculator/workflows/MakeCode/badge.svg)
+## ✏ Edit this project ![Build status badge](https://github.com/altaf-creator/microbit-calculator/workflows/MakeCode/badge.svg)
 
-To edit this repository in MakeCode.
+To edit this repository in MakeCode...
 
-* open [https://makecode.microbit.org/](https://makecode.microbit.org/)
-* click on **Import** then click on **Import URL**
-* paste **https://github.com/altaf-creator/microbit-calculator** and click import
+* Open [https://makecode.microbit.org/](https://makecode.microbit.org/)
+* Click on **Import** then click on **Import URL**
+* Paste **https://github.com/altaf-creator/microbit-calculator** and click import
 
-## Blocks preview
+## 🧱 Blocks preview
 
 This image shows the blocks code from the last commit in master.
 This image may take a few minutes to refresh.
