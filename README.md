@@ -3,13 +3,13 @@
 
 ## ❓ How to use
 
-Press A+B to start & switch between numbers/operation  
-Press B to incrase the value  
-Press A to decrease the value  
+Press A+B to start & switch between operand/operator  
+Press B to incrase the operand or switch the operator  
+Press A to decrease the operand or switch the operatpr  
 After the result shows, Press A+B again to reset
 
 **Note:**  
-This code only can calculate **1 operation**. I will update it so it can calculate more than one.
+This code only can calculate **1 expression**.
 
 ## ✏ Edit this project ![Build status badge](https://github.com/altaf-creator/microbit-calculator/workflows/MakeCode/badge.svg)
 
